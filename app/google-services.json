@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413022954296",
+    "project_id": "skolcart",
+    "storage_bucket": "skolcart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413022954296:android:3d9e7e17d03399891297cd",
+        "android_client_info": {
+          "package_name": "com.example.skolcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413022954296-d3pnbcjkh5hp930p7tfb6qji3mdatnmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr7iZnOzEWr2YIBmjXsZ0rxqRdJsdFfZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413022954296-d3pnbcjkh5hp930p7tfb6qji3mdatnmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
